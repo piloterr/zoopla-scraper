@@ -148,9 +148,9 @@ Example response from the API reference, abridged — real values depend on the 
   "id": 73119609,
   "url": "https://www.zoopla.co.uk/to-rent/details/73119609/",
   "agent": {
-    "url": "https://www.zoopla.co.uk/find-agents/branch/hamptons-balham-lettings-london-54599/",
-    "logo": "https://st.zoocdn.com/zoopla_static_agent_logo_(707660).png",
-    "name": "Hamptons - Balham Lettings"
+    "url": "example",
+    "logo": "example",
+    "name": "example"
   },
   "price": {
     "amount": 6500,
