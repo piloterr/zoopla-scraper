@@ -338,7 +338,7 @@ Example response from the API reference, abridged — real values depend on the 
       "address": "Dantzic Street, Manchester M4",
       "square_ft": null,
       "just_added": false,
-      "description": "Reserve a 1 or 2 bedroom apartment between 1 – 30 June with a £99 reservation fee and unlock better interest rates with a ...",
+      "description": "Reserve a 1 or 2 bedroom apartment between 1-30 June with a £99 reservation fee and unlock better interest rates with a ...",
       "num_bedrooms": 2,
       "num_bathrooms": 2,
       "price_currency": "Sterling pound £",
